@@ -6,11 +6,11 @@
 
 #### When I’m not working on schoolwork, I enjoy programming, playing games, reading, making videos, hiking, and experiencing new adventures.
 
-#### Currently learning
+#### Currently learning:
 
 [<img src='https://img.icons8.com/officel/344/000000/haskell.png' height='70'>]()
 
-#### Find me on
+#### Find me on:
 
 [<a href="https://www.linkedin.com/in/clayton-davidson/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>]()
 
