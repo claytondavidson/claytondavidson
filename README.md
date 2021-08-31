@@ -1,10 +1,10 @@
 ### Hey, I'm Clayton! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-#### I live in St. Helena Island, South Carolina. I am attending Western Kentucky University.
+#### I live in Mount Pleasant, South Carolina. 
 
 #### I want to increase my knowledge of both functional programming and algorithms. To do this, I write [blog posts](https://www.claytondavidson.dev/), read documentation and other materials, and develop my own projects.
 
-#### When I’m not working on schoolwork, I enjoy programming, playing games, reading, making videos, hiking, and experiencing new adventures.
+#### When I’m not working, I enjoy programming, playing games, reading, making videos, hiking, and experiencing new adventures.
 
 #### Currently learning:
 
