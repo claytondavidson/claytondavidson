@@ -1,6 +1,6 @@
 ### Hey, I'm Clayton! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-#### I live in Mount Pleasant, South Carolina. 
+#### I live in Charleston, South Carolina. 
 
 #### I want to increase my knowledge of both functional programming and algorithms. To do this, I write [blog posts](https://www.claytondavidson.dev/), read documentation and other materials, and develop my own projects.
 
