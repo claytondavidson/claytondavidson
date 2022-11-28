@@ -8,7 +8,7 @@
 
 #### Currently learning:
 
-[<img src='https://img.icons8.com/officel/344/000000/haskell.png' height='70'>]()
+[<img src='https://rustacean.net/assets/cuddlyferris.png' height='70'>]()
 
 #### Find me on:
 
