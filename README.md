@@ -4,7 +4,7 @@
 
 #### I want to increase my knowledge of both functional programming and algorithms. To do this, I write [blog posts](https://www.claytondavidson.dev/), read documentation and other materials, and develop my own projects.
 
-#### When I’m not working, I enjoy programming, playing games, reading, making videos, hiking, and experiencing new adventures.
+#### When I’m not working, I enjoy programming, playing games, reading, and experiencing new adventures.
 
 #### Currently learning:
 
