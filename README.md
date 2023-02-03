@@ -6,10 +6,6 @@
 
 #### When I’m not working, I enjoy programming, playing games, reading, and experiencing new adventures.
 
-#### Currently learning:
-
-[<img src='https://rustacean.net/assets/cuddlyferris.png' height='70'>]()
-
 #### Find me on:
 
 [<a href="https://www.linkedin.com/in/clayton-davidson/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>]()
